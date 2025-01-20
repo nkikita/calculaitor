@@ -12,3 +12,4 @@ C:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\calculaitor\obj\Debug\
 C:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\calculaitor\obj\Debug\net8.0\calculaitor.pdb
 C:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\calculaitor\obj\Debug\net8.0\calculaitor.genruntimeconfig.cache
 C:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\calculaitor\obj\Debug\net8.0\ref\calculaitor.dll
+c:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\calculaitor\obj\Debug\net8.0\calculaitor.sourcelink.json
