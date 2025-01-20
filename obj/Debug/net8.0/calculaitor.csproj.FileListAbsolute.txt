@@ -1,0 +1,14 @@
+C:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\calculaitor\obj\Debug\net8.0\calculaitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\calculaitor\obj\Debug\net8.0\calculaitor.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\calculaitor\obj\Debug\net8.0\calculaitor.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\calculaitor\obj\Debug\net8.0\calculaitor.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\calculaitor\bin\Debug\net8.0\calculaitor.exe
+C:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\calculaitor\bin\Debug\net8.0\calculaitor.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\calculaitor\bin\Debug\net8.0\calculaitor.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\calculaitor\bin\Debug\net8.0\calculaitor.dll
+C:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\calculaitor\bin\Debug\net8.0\calculaitor.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\calculaitor\obj\Debug\net8.0\calculaitor.dll
+C:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\calculaitor\obj\Debug\net8.0\refint\calculaitor.dll
+C:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\calculaitor\obj\Debug\net8.0\calculaitor.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\calculaitor\obj\Debug\net8.0\calculaitor.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\calculaitor\obj\Debug\net8.0\ref\calculaitor.dll
